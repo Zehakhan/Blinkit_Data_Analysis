@@ -1,0 +1,27 @@
+# Blinkit Sales Analysis Interactive Dashboard
+
+This project showcases an interactive dashboard analyzing Blinkit sales data to uncover trends in customer preferences, sales performance, and outlet analysis.
+
+## Features:
+- Total, average, and item-wise sales analysis.
+- Insights into outlet performance (location, size, and establishment trends).
+- Item-wise breakdown based on fat content and categories.
+
+## Tools Used:
+- **Power BI** for dashboard creation.
+- **Python** for data preprocessing and cleaning.
+
+## Insights:
+- Seasonal trends and customer behavior patterns.
+- Outlet performance evaluation for better decision-making.
+
+## Preview:
+- Video: [Watch the interactive dashboard in action] https://youtu.be/3cPD0iCNCjE
+- Screenshots:
+  ![Dashboard Overview] bd.png
+
+## How to Access:
+1. Download the `.pbix` file (if applicable) to explore the dashboard in Power BI.
+2. Check out the video and screenshots for a quick preview.
+
+---
